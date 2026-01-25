@@ -12,7 +12,7 @@ TO NAVIGATE THE SYSTEM:
 User must use http://localhost/UiTM-Students-Withdrawal-System-main/login.php for the login page.
 
 
-Admin must use :
+Admin must use =
 Username: admin
 Password: admin123
 
